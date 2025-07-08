@@ -1,0 +1,149 @@
+\begin{thebibliography}{18}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Badard et~al.(2021)Badard, Janssens-Coron, Engélinius, and
+  Malet]{badard2021geomatique}
+Thierry Badard, Eric Janssens-Coron, Jonathan Engélinius, and Xavier Malet.
+\newblock Conception d'une base de données sur les b{\^a}timents pour
+  améliorer la connaissance des risques liés aux inondations.
+\newblock \emph{Géomatique}, 48\penalty0 (2):\penalty0 7--13, Autumn 2021.
+
+\bibitem[Belgiu et~al.(2014)Belgiu, Tomljenovic, Lampoltshammer, Blaschke, and
+  Höfle]{belgiu2014}
+Mariana Belgiu, Ivan Tomljenovic, Thomas Lampoltshammer, Thomas Blaschke, and
+  Bernhard Höfle.
+\newblock Ontology-based classification of building types detected from
+  airborne laser scanning data.
+\newblock \emph{Remote Sensing}, 6:\penalty0 1347--1366, 02 2014.
+\newblock \doi{10.3390/rs6021347}.
+
+\bibitem[Breiman(2001)]{breiman2001randomforest}
+Leo Breiman.
+\newblock Random forests.
+\newblock \emph{Machine Learning}, 45\penalty0 (1):\penalty0 5--32, October
+  2001.
+\newblock ISSN 1573-0565.
+\newblock \doi{10.1023/A:1010933404324}.
+\newblock URL \url{https://doi.org/10.1023/A:1010933404324}.
+
+\bibitem[Cortes and Vapnik(1995)]{cortes1995svm}
+Corinna Cortes and Vladimir Vapnik.
+\newblock Support-vector networks.
+\newblock \emph{Machine Learning}, 20\penalty0 (3):\penalty0 273--297,
+  September 1995.
+\newblock ISSN 1573-0565.
+\newblock \doi{10.1007/BF00994018}.
+\newblock URL \url{https://doi.org/10.1007/BF00994018}.
+
+\bibitem[Evans et~al.(2017)Evans, Liddiard, and Steadman]{evans2017}
+Stephen Evans, Rob Liddiard, and Philip Steadman.
+\newblock Modelling a whole building stock: domestic, non-domestic and mixed
+  use.
+\newblock \emph{Building Research \& Information}, 47:\penalty0 1--17, 12 2017.
+\newblock \doi{10.1080/09613218.2017.1410424}.
+
+\bibitem[Friedman(2001)]{friedman2001gradient}
+Jerome~H. Friedman.
+\newblock Greedy function approximation: A gradient boosting machine.
+\newblock \emph{The Annals of Statistics}, 29\penalty0 (5):\penalty0
+  1189--1232, 2001.
+\newblock ISSN 00905364, 21688966.
+\newblock URL \url{http://www.jstor.org/stable/2699986}.
+
+\bibitem[{Government of Canada}(2025)]{opencanada_qc2025}
+{Government of Canada}.
+\newblock Government and municipalities of québec.
+\newblock \url{https://open.canada.ca/data/organization/qc}, 2025.
+\newblock Accessed: 2025-07-08.
+
+\bibitem[Gregorutti et~al.(2017)Gregorutti, Michel, and
+  Saint-Pierre]{gregorutti2017correlation}
+Baptiste Gregorutti, Bertrand Michel, and Philippe Saint-Pierre.
+\newblock Correlation and variable importance in random forests.
+\newblock \emph{Statistics and Computing}, 27:\penalty0 659--678, 2017.
+
+\bibitem[Lance and Williams(1967)]{lance1967canberra}
+G.~N. Lance and W.~T. Williams.
+\newblock A general theory of classificatory sorting strategies: Ii. clustering
+  systems.
+\newblock \emph{The Computer Journal}, 10\penalty0 (3):\penalty0 271--277, 01
+  1967.
+\newblock ISSN 0010-4620.
+\newblock \doi{10.1093/comjnl/10.3.271}.
+\newblock URL \url{https://doi.org/10.1093/comjnl/10.3.271}.
+
+\bibitem[Lloyd et~al.(2020)Lloyd, Sturrock, Jochem, Lázár, and
+  Tatem]{lloyd2020}
+Christopher Lloyd, Hugh Sturrock, Warren Jochem, Attila Lázár, and Andrew
+  Tatem.
+\newblock Using gis and machine learning to classify residential status of
+  urban buildings in low and middle income settings.
+\newblock \emph{Remote Sensing}, 12:\penalty0 3847, 11 2020.
+\newblock \doi{10.3390/rs12233847}.
+
+\bibitem[{Microsoft Corporation}(2023)]{ms2023globalmlbuildingfootprints}
+{Microsoft Corporation}.
+\newblock Globalmlbuildingfootprints.
+\newblock \url{https://github.com/microsoft/GlobalMLBuildingFootprints}, 2023.
+\newblock Accessed: 2025-07-08.
+
+\bibitem[{OpenStreetMap contributors}(2025)]{openstreetmap_api2025}
+{OpenStreetMap contributors}.
+\newblock Api – openstreetmap wiki.
+\newblock \url{https://wiki.openstreetmap.org/wiki/API}, 2025.
+\newblock Accessed: 2025-07-08.
+
+\bibitem[Pedregosa et~al.(2011)Pedregosa, Varoquaux, Gramfort, Michel, Thirion,
+  Grisel, Blondel, Prettenhofer, Weiss, Dubourg, Vanderplas, Passos,
+  Cournapeau, Brucher, Perrot, and Duchesnay]{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay.
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock \emph{Journal of Machine Learning Research}, 12:\penalty0 2825--2830,
+  2011.
+
+\bibitem[Quinlan(1986)]{quinlan1986id3}
+J.~R. Quinlan.
+\newblock Induction of decision trees.
+\newblock volume~1, pages 81--106, March 1986.
+\newblock \doi{10.1007/BF00116251}.
+\newblock URL \url{https://doi.org/10.1007/BF00116251}.
+
+\bibitem[Rumelhart et~al.(1986)Rumelhart, Hinton, and
+  Williams]{rumelhart1986mlp}
+David~E. Rumelhart, Geoffrey~E. Hinton, and Ronald~J. Williams.
+\newblock Learning representations by back-propagating errors.
+\newblock \emph{Nature}, 323\penalty0 (6088):\penalty0 533--536, October 1986.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/323533a0}.
+\newblock URL \url{https://doi.org/10.1038/323533a0}.
+
+\bibitem[Shimodaira(2000)]{shimodaira2000covariate}
+Hidetoshi Shimodaira.
+\newblock Improving predictive inference under covariate shift by weighting the
+  log-likelihood function.
+\newblock \emph{Journal of Statistical Planning and Inference}, 90:\penalty0
+  227--244, 10 2000.
+\newblock \doi{10.1016/S0378-3758(00)00115-4}.
+
+\bibitem[{Ville de Québec}(2025)]{villedequebec2025}
+{Ville de Québec}.
+\newblock Organisation – ville de québec.
+\newblock \url{https://www.donneesquebec.ca/organisation/ville-de-quebec/},
+  2025.
+\newblock Accessed: 2025-07-08.
+
+\bibitem[Wurm et~al.(2015)Wurm, Schmitt, and Taubenböck]{wurm2015}
+Michael Wurm, Andreas Schmitt, and Hannes Taubenböck.
+\newblock Building types’ classification using shape-based features and
+  linear discriminant functions.
+\newblock \emph{IEEE Journal of Selected Topics in Applied Earth Observations
+  and Remote Sensing}, 9:\penalty0 1--12, 08 2015.
+\newblock \doi{10.1109/JSTARS.2015.2465131}.
+
+\end{thebibliography}

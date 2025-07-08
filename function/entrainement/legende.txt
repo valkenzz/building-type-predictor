@@ -1,0 +1,24 @@
+Résidenciel===>10
+Cabanon/garage petit==>11
+Centre Commercial==>12
+Commercial=>13
+Bureaux => 14
+Industriel=>15
+Batiment Agricol=>16
+
+Bâtiment du gouvernement =>17
+Autre/erreur=>18
+BatimentInconueDansForet/alambic==>19
+erreur=>20
+21==> batiment couperEn2 Habitation unique
+petite habitation DeDant =>22
+
+27===> batioment gouvernement
+---------------------------------------------------------------------------------------
+
+
+0 résidentielles
+1 cabanon
+centre commerciaux =>2
+industrielle ou commercial=>3
+4 , autre non categ

@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Paper.aux
+The style file: plainnat.bst
+Database file #1: references.bib
+Warning--I didn't find a database entry for "rshimodaira2000covariate"
+Warning--empty booktitle in quinlan1986id3
+Warning--can't use both volume and number fields in quinlan1986id3
+You've used 18 entries,
+            2773 wiz_defined-function locations,
+            731 strings with 8530 characters,
+and the built_in function-call counts, 8896 in all, are:
+= -- 817
+> -- 524
+< -- 12
++ -- 180
+- -- 162
+* -- 761
+:= -- 1400
+add.period$ -- 79
+call.type$ -- 18
+change.case$ -- 108
+chr.to.int$ -- 18
+cite$ -- 38
+duplicate$ -- 357
+empty$ -- 690
+format.name$ -- 184
+if$ -- 1843
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 14
+newline$ -- 123
+num.names$ -- 72
+pop$ -- 191
+preamble$ -- 1
+purify$ -- 90
+quote$ -- 0
+skip$ -- 271
+stack$ -- 0
+substring$ -- 337
+swap$ -- 38
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 198
+warning$ -- 2
+while$ -- 77
+width$ -- 0
+write$ -- 287
+(There were 3 warnings)
