@@ -1,3 +1,1 @@
-[Classifying Building Types from Footprints Using Open Geospatial
-Data and Machine Learning](./Classifying Building Types from Footprints Using Open Geospatial
-Data and Machine Learning.pdf)
+[Classifying Building Types from Footprints Using Open Geospatial Data and Machine Learning](./Classifying%20Building%20Types%20from%20Footprints%20Using%20Open%20Geospatial%20Data%20and%20Machine%20Learning.pdf)
